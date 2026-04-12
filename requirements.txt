@@ -1,0 +1,7 @@
+deepface
+streamlit
+opencv-python-headless
+pillow
+scikit-learn
+tf-keras
+mediapipe==0.10.33
